@@ -1,0 +1,35 @@
+[
+  {
+    "license_plate": "AABBCC",
+    "car_make":"Ford",
+    "car_model":"Ranger",
+    "car_manufactor_year":"2022",
+    "drivers_license_number": 123456789,
+    "drivers_license_name": "Rick Sanchez",
+    "drivers_license_dob": "1943-01-26",
+    "drivers_license_gender": "M",
+    "drivers_license_expiry":"2024-12-12"
+  },
+  {
+    "license_plate": "ZE98D1",
+    "car_make":"Honda",
+    "car_model":"Accord",
+    "car_manufactor_year":"2022",
+    "drivers_license_number": 987654321,
+    "drivers_license_name": "Beth Smith",
+    "drivers_license_dob": "1989-10-01",
+    "drivers_license_gender": "F",
+    "drivers_license_expiry":"2024-12-12"
+  },
+  {
+    "license_plate": "DIS111",
+    "car_make":"Toyota",
+    "car_model":"Camry",
+    "car_manufactor_year":"2022",
+    "drivers_license_number": 123456789,
+    "drivers_license_name": "Bird Person",
+    "drivers_license_dob": "1980-06-16",
+    "drivers_license_gender": "M",
+    "drivers_license_expiry":"2024-12-12"
+  }
+]
