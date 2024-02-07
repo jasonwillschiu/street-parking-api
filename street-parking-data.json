@@ -1,26 +1,47 @@
 [
   {
-    "license_plate": "AABBCC",
+    "license_plate": "AABBBCC",
     "location_lat": -26.3645,
     "location_long": 152.9677,
-    "location_desc": "Noosa City Carpark",
-    "offence": "Parking Meter Balance",
-    "picture_url":"/image1.jpg"
+    "location_desc": "HASTINGS ST",
+    "location_suburb":"NOOSA HEADS",
+    "date":"Fri 02/02/2024",
+    "time":"02:40PM",
+    "council":"NOOSA",
+    "officer_id":"012",
+    "car_desc":"Nissan Qashqai Black",
+    "offence_desc": "PARKING TOO FAR FROM CURB",
+    "offence_amount":101,
+    "picture_url":"https://street-parking-api.deno.dev/image1.jpg"
+  },
+  {
+    "license_plate": "DIS11",
+    "location_lat": -26.3645,
+    "location_long": 152.9677,
+    "location_desc": "THE ESPLANADE",
+    "location_suburb":"NOOSA HEADS",
+    "date":"Fri 02/02/2024",
+    "time":"02:40PM",
+    "council":"NOOSA",
+    "officer_id":"012",
+    "car_desc":"Porsche 911 Grey",
+    "offence_desc": "FAILED TO DISPLAY A VALID PARKING TICKET",
+    "offence_amount":97,
+    "picture_url":"https://street-parking-api.deno.dev/image2.jpg"
   },
   {
     "license_plate": "ZE98D1",
     "location_lat": -26.3645,
     "location_long": 152.9677,
-    "location_desc": "The Esplanade",
-    "offence": "Taxi Zone Violation",
-    "picture_base64":"/image2.jpg"
-  },
-  {
-    "license_plate": "DIS111",
-    "location_lat": -26.3645,
-    "location_long": 152.9677,
-    "location_desc": "The Esplanade",
-    "offence": "No Parking Violation",
-    "picture_base64":"/image3.jpg"
+    "location_desc": "THE ESPLANADE",
+    "location_suburb":"NOOSA HEADS",
+    "date":"Fri 02/02/2024",
+    "time":"12:01PM",
+    "council":"NOOSA",
+    "officer_id":"012",
+    "car_desc":"Hyundai Sonata Bronze",
+    "offence_desc": "PARKED OVER TWO BAYS",
+    "offence_amount":201,
+    "picture_base64":"https://street-parking-api.deno.dev/image3.jpg"
   }
 ]

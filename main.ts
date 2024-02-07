@@ -40,9 +40,12 @@ app.get("/tmr-api", (c) => {
   });
 });
 
-// static images data
+// static images and pdfs
 app.get('/image1.jpg', serveStatic({path:'image1.jpg'}))
 app.get('/image2.jpg', serveStatic({path:'image2.jpg'}))
 app.get('/image3.jpg', serveStatic({path:'image3.jpg'}))
+app.get('/infringement1.pdf', serveStatic({path:'Infringement1.pdf'}))
+app.get('/infringement2.pdf', serveStatic({path:'Infringement2.pdf'}))
+app.get('/infringement3.pdf', serveStatic({path:'Infringement3.pdf'}))
 
 Deno.serve(app.fetch);

@@ -1,8 +1,9 @@
 [
   {
-    "license_plate": "AABBCC",
-    "car_make":"Ford",
-    "car_model":"Ranger",
+    "license_plate": "AABBBCC",
+    "car_make":"Nissan",
+    "car_model":"Qashqai",
+    "car_colour":"Black",
     "car_manufactor_year":"2022",
     "drivers_license_number": 123456789,
     "drivers_license_name": "Rick Sanchez",
@@ -11,10 +12,11 @@
     "drivers_license_expiry":"2024-12-12"
   },
   {
-    "license_plate": "ZE98D1",
-    "car_make":"Honda",
-    "car_model":"Accord",
-    "car_manufactor_year":"2022",
+    "license_plate": "DIS11",
+    "car_make":"Porsche",
+    "car_model":"911",
+    "car_colour":"Grey",
+    "car_manufactor_year":"2016",
     "drivers_license_number": 987654321,
     "drivers_license_name": "Beth Smith",
     "drivers_license_dob": "1989-10-01",
@@ -22,10 +24,11 @@
     "drivers_license_expiry":"2024-12-12"
   },
   {
-    "license_plate": "DIS111",
-    "car_make":"Toyota",
-    "car_model":"Camry",
-    "car_manufactor_year":"2022",
+    "license_plate": "ZE98D1",
+    "car_make":"Hyundai",
+    "car_model":"Sonata",
+    "car_colour":"Bronze",
+    "car_manufactor_year":"2020",
     "drivers_license_number": 123456789,
     "drivers_license_name": "Bird Person",
     "drivers_license_dob": "1980-06-16",
