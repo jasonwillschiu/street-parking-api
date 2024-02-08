@@ -42,6 +42,6 @@
     "car_desc":"Hyundai Sonata Bronze",
     "offence_desc": "PARKED OVER TWO BAYS",
     "offence_amount":201,
-    "picture_base64":"https://street-parking-api.deno.dev/image3.jpg"
+    "picture_url":"https://street-parking-api.deno.dev/image3.jpg"
   }
 ]
